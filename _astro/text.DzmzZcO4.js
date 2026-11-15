@@ -1,0 +1,2 @@
+function e(e){return e?e.replace(/\r\n?/g,`
+`).split(/\n[ \t]*\n/).map(e=>e.trim()).filter(Boolean):[]}function t(e){return e&&/^https?:\/\//i.test(e)?e:null}function n(e,t=160){let n=(e??``).replace(/\s+/g,` `).trim(),r=[...n];if(r.length<=t)return n;let i=r.slice(0,t-1).join(``),a=i.lastIndexOf(` `);return`${(a>t/2?i.slice(0,a):i).replace(/[\s,.;:–-]+$/,``)}…`}export{t as n,e as r,n as t};
