@@ -1,1 +1,0 @@
-import{t as e}from"./panel.BAfNtwne.js";e();
