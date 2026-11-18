@@ -1,0 +1,1 @@
+import{n as e}from"./admin-users-ui.H75MLxvQ.js";e(document.querySelector(`[data-users]`));
