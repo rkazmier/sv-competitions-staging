@@ -1,1 +1,0 @@
-import{r as e}from"./offer-ui.B9sdLVOQ.js";var t=document.querySelector(`[data-payment]`);t&&e(t);
