@@ -1,1 +1,0 @@
-import{n as e}from"./offer-ui.D9txn3wd.js";var t=document.querySelector(`[data-order-root]`);t&&e(t);
