@@ -1,1 +1,0 @@
-import{t as e}from"./panel.Bpw65Zh2.js";e();
