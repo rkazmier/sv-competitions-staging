@@ -1,1 +1,0 @@
-import{t as e}from"./admin-users-ui.Bau-ONcy.js";e(document.querySelector(`[data-user-card]`));
