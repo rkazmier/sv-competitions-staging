@@ -1,1 +1,0 @@
-import{t as e}from"./dictionary-ui.CJ1THIle.js";for(let t of document.querySelectorAll(`[data-dictionary]`))e(t);
