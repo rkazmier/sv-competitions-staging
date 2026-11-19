@@ -1,1 +1,0 @@
-import{r as e}from"./account-ui.D2GiZUBd.js";e();
