@@ -1,1 +1,0 @@
-import{t as e}from"./admin-users-ui.BQktAWw2.js";e(document.querySelector(`[data-user-card]`));

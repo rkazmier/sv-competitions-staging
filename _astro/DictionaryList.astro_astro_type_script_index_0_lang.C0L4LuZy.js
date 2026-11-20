@@ -1,1 +1,0 @@
-import{t as e}from"./dictionary-ui.Bzl9p-lp.js";for(let t of document.querySelectorAll(`[data-dictionary]`))e(t);
