@@ -1,1 +1,0 @@
-import{n as e,o as t}from"./auth.vwy_JECa.js";var n=t(null);try{n=t(window.localStorage.getItem(e))}catch{}var r={guest:[`guest`],user:[`user`],staff:[`user`,`staff`]}[n];for(let e of document.querySelectorAll(`[data-header-auth]`))e.hidden=!r.includes(e.dataset.headerAuth??``);

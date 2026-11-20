@@ -1,0 +1,1 @@
+import{c as e,i as t}from"./calendar.nLKytizK.js";import{n}from"./duty-link-ui.B6qbTFAp.js";var r=e(null);try{r=e(window.localStorage.getItem(t))}catch{}var i={guest:[`guest`],user:[`user`],staff:[`user`,`staff`]}[r];for(let e of document.querySelectorAll(`[data-header-auth]`))e.dataset.headerAuth!==`duty`&&(e.hidden=!i.includes(e.dataset.headerAuth??``));n();
