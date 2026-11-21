@@ -1,0 +1,1 @@
+import{r as e}from"./supabase.DL5cBbI8.js";var t=`site-rebuild`;async function n(e){try{let{error:n}=await e.functions.invoke(t,{method:`POST`});return!n}catch{return!1}}function r(t,n=``){let r=e(t?`rebuild.started`:`rebuild.failed`);return n?`${n} ${r}`:r}async function i(e,t=``){return r(await n(e),t)}export{i as t};

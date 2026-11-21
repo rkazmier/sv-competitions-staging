@@ -1,1 +1,0 @@
-import{r as e}from"./offer-ui.CmRrC_Nr.js";var t=document.querySelector(`[data-payment]`);t&&e(t);
