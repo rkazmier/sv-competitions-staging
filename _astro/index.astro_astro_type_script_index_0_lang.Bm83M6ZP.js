@@ -1,0 +1,1 @@
+import{r as e}from"./offer-ui.CTsgtQde.js";var t=document.querySelector(`[data-payment]`);t&&e(t);

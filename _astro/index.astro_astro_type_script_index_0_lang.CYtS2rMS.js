@@ -1,0 +1,1 @@
+import{t as e}from"./offer-ui.CTsgtQde.js";var t=document.querySelector(`[data-offer]`);t&&e(t);
