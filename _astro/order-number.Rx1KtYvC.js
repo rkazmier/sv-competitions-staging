@@ -1,0 +1,1 @@
+var e=/^SV-([0-9]{4})-([0-9]+)$/;function t(t){let n=e.exec(t.trim().toUpperCase());if(!n)return null;let r=n[2].replace(/^0+/,``)||`0`;return`SV-${n[1]}-${r.padStart(6,`0`)}`}export{t};

@@ -1,1 +1,0 @@
-import{r as e}from"./account-ui.lUl58A_2.js";e();
