@@ -1,0 +1,1 @@
+import{n as e}from"./orders-admin-ui.BLzT_UMv.js";var t=document.querySelector(`[data-orders]`);t&&e(t);

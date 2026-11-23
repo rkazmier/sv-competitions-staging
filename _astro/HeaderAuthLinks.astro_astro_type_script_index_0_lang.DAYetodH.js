@@ -1,1 +1,0 @@
-import{n as e,o as t}from"./auth.vwy_JECa.js";import{n}from"./duty-link-ui.CLDr0Kpk.js";var r=t(null);try{r=t(window.localStorage.getItem(e))}catch{}var i={guest:[`guest`],user:[`user`],staff:[`user`,`staff`]}[r];for(let e of document.querySelectorAll(`[data-header-auth]`))e.dataset.headerAuth!==`duty`&&(e.hidden=!i.includes(e.dataset.headerAuth??``));n();
