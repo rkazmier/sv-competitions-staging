@@ -1,0 +1,1 @@
+function e(e){return`/regulamin-sprzedazy/regulamin-sprzedazy-${e}.pdf`}function t(e){let[t,n,r]=e.split(`-`);return`${Number(r)}.${n}.${t}`}function n(n){return[...n].sort().reverse().map(n=>({date:t(n),href:e(n)}))}export{n,t as r,e as t};
