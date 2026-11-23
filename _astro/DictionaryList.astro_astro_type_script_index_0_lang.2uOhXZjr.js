@@ -1,0 +1,1 @@
+import{t as e}from"./dictionary-ui.Dmz_TQao.js";for(let t of document.querySelectorAll(`[data-dictionary]`))e(t);
