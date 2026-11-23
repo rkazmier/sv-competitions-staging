@@ -1,0 +1,1 @@
+import{n as e}from"./opening-hours-ui.jkgqXbff.js";var t=document.querySelector(`[data-opening-hours]`);t&&e(t);
