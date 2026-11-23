@@ -1,0 +1,1 @@
+import{t as e}from"./admin-users-ui.CctgbMA8.js";e(document.querySelector(`[data-user-card]`));
