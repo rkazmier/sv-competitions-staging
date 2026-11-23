@@ -1,0 +1,1 @@
+async function e(e,t){try{let{data:n,error:r}=await e.rpc(`range_blocked_on`,{p_date:t});return r?[]:n??[]}catch{return[]}}function t(e){return e.map(e=>e.name).join(`, `)}function n(e,t){let n=new Set(e.filter(e=>e.kind===`event`).map(e=>`event:${e.id}`));return t.find(e=>n.has(e))??null}export{e as n,n as r,t};

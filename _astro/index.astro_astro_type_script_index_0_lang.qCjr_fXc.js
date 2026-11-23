@@ -1,0 +1,1 @@
+import{r as e}from"./auth-ui.D1PzwvtB.js";e();
