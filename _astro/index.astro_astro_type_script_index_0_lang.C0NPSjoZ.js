@@ -1,1 +1,0 @@
-import{r as e}from"./offer-ui.JOraY_c6.js";var t=document.querySelector(`[data-payment]`);t&&e(t);
