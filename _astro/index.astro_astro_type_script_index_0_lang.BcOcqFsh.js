@@ -1,1 +1,0 @@
-import{n as e}from"./orders-admin-ui.CQWa4nX9.js";var t=document.querySelector(`[data-orders]`);t&&e(t);
