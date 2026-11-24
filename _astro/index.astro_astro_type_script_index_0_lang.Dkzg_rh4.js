@@ -1,1 +1,0 @@
-import{n as e}from"./opening-hours-ui.DmOSA8X4.js";var t=document.querySelector(`[data-opening-hours]`);t&&e(t);
