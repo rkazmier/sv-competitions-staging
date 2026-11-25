@@ -1,0 +1,1 @@
+import{t as e}from"./offer-ui.CRs6so2U.js";import{t}from"./opening-hours-ui.DUf0NLYa.js";var n=document.querySelector(`[data-offer]`);n&&e(n);var r=document.querySelector(`[data-opening-hours]`);r&&t(r);
